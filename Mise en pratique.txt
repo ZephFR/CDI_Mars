@@ -1,0 +1,20 @@
+Rappel Perso :
+
+Get : récupérer des données
+Post : Ajouter des données
+Put : Mettre a jour des données
+Delete : retirer des données
+
+--------------------
+
+1. Pierrick souhaite s'inscrire sur mon site 
+	POST
+
+2. Pierrick a tapé trop vite et s'est trompé dans son adresse, il envoie de nouvelles info pour mettre à jour son lieu d'habitation
+	PUT
+
+3. Pierrick consulte sa page profil pour vérifier que tout est bon, il récupère ses info pour les afficher sur le site
+	GET
+
+4.  Pierrick n'aime finalement pas ce site, et souhaite donc supprimer ses infos et son compte
+	DELETE
